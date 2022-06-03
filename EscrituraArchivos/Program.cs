@@ -29,7 +29,6 @@ namespace EscrituraArchivos
         {
             //Variable booleana para salir de ciclo
             bool x = false;
-            bool y = false;
 
             //Ciclo para repetir el mensaje
             do
